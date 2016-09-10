@@ -4,4 +4,5 @@ use_frameworks!
 
 target 'MWPhotoBrowser_Example-Swift' do
   pod "MWPhotoBrowser", :path => "../"
+  # pod 'MWPhotoBrowser', '2.1.2'
 end
